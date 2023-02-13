@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgelucas-sudo&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 ![Kallyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgelucas-sudo&count_private=true&theme=nord&hide_border=true)
+
+[![](https://visitcount.itsvg.in/api?id=georgelucas-sudo&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
