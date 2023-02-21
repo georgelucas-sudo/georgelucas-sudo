@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ![Kallyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgelucas-sudo&count_private=true&theme=nord&hide_border=true)
 
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgelucas-sudo&theme=github" /></p>
+
 
