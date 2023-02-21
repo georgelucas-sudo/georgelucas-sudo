@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
 Iam lucas and i love using the following languages
 
 <!--
