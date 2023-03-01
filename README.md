@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ## Tools, Technologies, Stack
 
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github) ![Gitlab](https://img.shields.io/badge/Gitlab-crimson?style=for-the-badge&logo=gitlab) ![Postman](https://img.shields.io/badge/Postman-brightgreen?style=for-the-badge&logo=postman) ![Ubuntu](https://img.shields.io/badge/Ubuntu-blueviolet?style=for-the-badge&logo=ubuntu)  ![React Js](https://img.shields.io/badge/Reactjs-magenta?style=for-the-badge&logo=react) ![Node Js](https://img.shields.io/badge/Nodejs-maroon?style=for-the-badge&logo=node) ![React-native](https://img.shields.io/badge/React%20native-purple?style=for-the-badge&logo=react) ![Laravel](https://img.shields.io/badge/Laravel-lightgrey?style=for-the-badge&logo=Laravel)  ![Django](https://img.shields.io/badge/django-success?style=for-the-badge&logo=django) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) ![aWS](https://img.shields.io/badge/aWS-indigo?style=for-the-badge&logo=amazon) ![Wordpress](https://img.shields.io/badge/Wordpress-grey?style=for-the-badge&logo=wordpress)
-<br>
-<hr>
-<br>
-![Snake animation](https://github.com/georgelucas-sudo/georgelucas-sudo/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ![Profile views](https://gpvc.arturio.dev/georgedalucas-sudo)  
